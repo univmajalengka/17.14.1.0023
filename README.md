@@ -9,11 +9,8 @@
 
 ## Designer
 
-## Preview
-![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/designer-database.png) <br /><br />
-
-Ini Tampilan awal dari web ini
-![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Input-Session.png) <br /><br />
-
-Ini Tampilan setelah anda login
-![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Beranda.png) <br /><br />
+## Preview Tugas Terbaru
+![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshoot/designer-database.png) <br />
+![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshoot/View_Daftar_Karyawan.png) <br />
+![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshoot/View_Daftar_Absen.png) <br />
+![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshoot/View_Daftar_Lembur.png) <br />
