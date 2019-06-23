@@ -10,7 +10,7 @@
 ## Designer
 
 ## Preview Tugas Terbaru
-![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshoot/designer-database.png) <br />
-![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshoot/View_Daftar_Karyawan.png) <br />
-![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshoot/View_Daftar_Absen.png) <br />
-![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshoot/View_Daftar_Lembur.png) <br />
+![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/designer-database.png) <br />
+![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/View_Daftar_Karyawan.png) <br />
+![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/View_Daftar_Absen.png) <br />
+![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/View_Daftar_Lembur.png) <br />
