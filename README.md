@@ -12,14 +12,14 @@
 ## Preview Tugas Terbaru
 ![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/designer-database.png) <br />
 
-<br />
+<br>
 ## Preview View Data Karyawan
 ![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/View_Daftar_Karyawan.png) <br />
 
-<br />
+<br>
 ## Preview View Data Absensi
 ![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/View_Daftar_Absen.png) <br />
 
-<br />
+<br>
 ## Preview View Data Lembur
 ![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/View_Daftar_Lembur.png) <br />
