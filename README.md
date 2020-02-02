@@ -8,16 +8,10 @@
 :telephone: +6282372468321
 
 ## Mampir Kesini Untuk Hal Yang Baru
-https://github.com/JurigWifi/dotfiles
+https://github.com/Bash43Shell/dotfiles
 
 ## !Terbaru : Awesome Window-Manager (Linux/Unix/Mac)
 ![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/Awesome-Desktop.png) <br />
 ![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/Awesome-VIM.png) <br />
 ![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/Awesome-Thunar.png) <br />
 ![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/Awesome-NCMCPP_Music.png) <br />
-
-## Preview Tugas Lama
-![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/designer-database.pnAwesome-NCMCPP_Music.pngg) <br />
-![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/View_Daftar_Karyawan.png) <br />
-![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/View_Daftar_Absen.png) <br />
-![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/Screenshot/View_Daftar_Lembur.png) <br />
